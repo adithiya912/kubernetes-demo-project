@@ -9,14 +9,6 @@ The project consiste of the following :
 * deployment.yml manifest file for k8s resources definition (POD, SERVICE, PodDisruptionBudget)
 
 
-### Reference Documentation
-For further reference, please consider the following sections:
-
-* [Kubernetes](https://kubernetes.io/)
-* [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
-* [Spring Boot](https://docs.spring.io/spring-boot/docs/{bootVersion}/reference/htmlsingle/#production-ready)
-
-
 # Deploy the spring application to kubernetes - Steps :
 
 * Build the demo spring boot application - docker image
